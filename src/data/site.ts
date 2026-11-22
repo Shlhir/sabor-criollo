@@ -14,7 +14,7 @@ export const site = {
   name: "Sabor Criollo",
   tagline: "Cocina criolla peruana en Miraflores",
   /** URL final del sitio publicado (se usa para SEO y redes sociales). */
-  url: "https://sabor-criollo.vercel.app",
+  url: "https://sabor-criollo-alpha.vercel.app",
   description:
     "Restaurante de cocina criolla peruana en Miraflores, Lima: ceviche del día, lomo saltado, causa limeña y pisco sour. Reserva tu mesa por WhatsApp.",
   foundedYear: 2009,
