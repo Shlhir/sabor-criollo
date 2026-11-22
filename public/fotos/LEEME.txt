@@ -1,0 +1,2 @@
+Guarda aquí las fotos reales del restaurante (JPG o WebP, máximo 2000 px de ancho).
+Luego actualiza la ruta en src/data/images.ts, por ejemplo: src: "/fotos/ceviche.jpg"
